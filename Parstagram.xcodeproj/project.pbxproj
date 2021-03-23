@@ -20,6 +20,7 @@
 		EF474EFE260277BF0044056E /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF474EFD260277BF0044056E /* FeedViewController.swift */; };
 		EF474F0626029D920044056E /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF474F0526029D920044056E /* CameraViewController.swift */; };
 		EF4D619E2603ACC000197792 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF4D619D2603ACC000197792 /* PostCell.swift */; };
+		EF9F437F260936A9006BA5D2 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF9F437E260936A9006BA5D2 /* CommentCell.swift */; };
 		F10305C43827C18E154761D4 /* Pods_Parstagram_ParstagramUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2918D2E1FF6093C706D2EC19 /* Pods_Parstagram_ParstagramUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -67,6 +68,7 @@
 		EF474EFD260277BF0044056E /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		EF474F0526029D920044056E /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		EF4D619D2603ACC000197792 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		EF9F437E260936A9006BA5D2 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				EF474EFD260277BF0044056E /* FeedViewController.swift */,
 				EF474F0526029D920044056E /* CameraViewController.swift */,
 				EF4D619D2603ACC000197792 /* PostCell.swift */,
+				EF9F437E260936A9006BA5D2 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				EF474EFE260277BF0044056E /* FeedViewController.swift in Sources */,
 				EF20600F25FFCDA200E087D4 /* SceneDelegate.swift in Sources */,
 				EF4D619E2603ACC000197792 /* PostCell.swift in Sources */,
+				EF9F437F260936A9006BA5D2 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
